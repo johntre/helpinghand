@@ -2,10 +2,10 @@
   "user": [
     {
       "name": "john tre",
-      "service type": "snow",
-      "address": "sheridan",
+      "service_type": "snow",
+      "address": "sheridan rd",
       "email": "jrd@gmail.com",
-      "price willing to pay":"one"
+      "price":1
     }
   ],
 
