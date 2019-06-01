@@ -1,12 +1,12 @@
 {
   "user": [
     {
-      "id": 
-      "name": 
-      "service_type": 
-      "address": 
-      "email": 
-      "price": 
+      "id": 1
+      "name": "John Tre",
+      "service_type": "gardening",
+      "address": "2400 Sheridan Rd, Evanston, IL",
+      "email": "jrd@gmail.com"
+      "price": 2
     }
   ]
 
