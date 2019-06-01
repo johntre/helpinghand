@@ -1,12 +1,12 @@
 {
   "user": [
     {
-      "id": 1,
-      "name": "john tre",
-      "service_type": "snow",
-      "address": "2400 sheridan rd, Evanston, IL",
-      "email": "jrd@gmail.com",
-      "price":1
+      "id": ,
+      "name": "",
+      "service_type": "",
+      "address": "",
+      "email": "",
+      "price":
     }
   ]
 
