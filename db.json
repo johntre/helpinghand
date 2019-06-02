@@ -1,13 +1,22 @@
-[
-  {
-    "name": "John",
-    "service_type": "snowremoval",
-    "email": "john@gmail.com",
-    "price": "5",
-    "address": "100 Main St, San Diego, CA",
-    "lat": "32.684349",
-    "long": "-117.113708",
-    "id": 1
-  }
-]
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John Tre",
+      "service_type": "gardening",
+      "address": "2400 Sheridan Rd, Evanston, IL",
+      "lat": "32.684349",
+      "long": "-117.113708",
+      "email": "jrd@gmail.com",
+      "price": 2
+    }
+  ]
+
+}
+
+
+
+
+
+
 
