@@ -1,13 +1,14 @@
-[
+{
+  "user": [
     {
-        "name": "Stuart",
-        "service_type": "snowremoval",
-        "email": "stu@gmail.com",
-        "price": "3",
-        "address": "100 Main St, Markham, ON",
-        "lat": "43.8692925",
-        "long": "-79.3120438",
-        "id": 1
+      "id": 1,
+      "name": "John Tre",
+      "service_type": "gardening",
+      "address": "2400 Sheridan Rd, Evanston, IL",
+      "email": "jrd@gmail.com",
+      "price": 2
     }
-]
+  ]
+
+}
 
