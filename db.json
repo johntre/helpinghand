@@ -5,6 +5,8 @@
         "email": "stu@gmail.com",
         "price": "3",
         "address": "100 Main St, Markham, ON",
+        "lat": "43.8692925",
+        "long": "-79.3120438",
         "id": 1
     }
 ]
