@@ -8,7 +8,8 @@
       "lat": "42.0393759",
       "long": "-87.680546",
       "email": "jrd@gmail.com",
-      "price": 2
+      "price": 2,
+      "time_created":"2019-06-05T19:00:35.158Z"
     }
   ]
 
