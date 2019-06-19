@@ -16,6 +16,8 @@
     {
       "id": 1,
       "name": "John Tre",
+      "username": "johntre",
+      "email": "jrd@gmail.com",
       "phone_number": "773-222-1111",
       "address": "1200 Chicago Ave, Evanston, IL",
       "birthdate": "December 1, 1998"
