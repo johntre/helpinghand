@@ -1,5 +1,5 @@
 {
-  "user": [
+  "service": [
     {
       "id": 1,
       "name": "John Tre",
@@ -11,8 +11,16 @@
       "price": 2,
       "time_created":"2019-06-05T19:00:35.158Z"
     }
-  ]
-
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Tre",
+      "phone_number": 773-222-1111,
+      "address": "1200 Chicago Ave, Evanston, IL",
+      "birthdate": "December 1, 1998"
+    }
+  ],
 }
 
 
